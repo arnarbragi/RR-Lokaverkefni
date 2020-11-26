@@ -1,1 +1,1 @@
-# RR-Lokaverkefni
+## Lokaverkefni - Arnar Bragi Bragason
